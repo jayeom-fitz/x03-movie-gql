@@ -1,0 +1,22 @@
+{
+  "name": "x03-movie-gql",
+  "version": "1.0.0",
+  "description": "Movie API with GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayeom-fitz/x03-movie-gql.git"
+  },
+  "author": "JayEom-Fitz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayeom-fitz/x03-movie-gql/issues"
+  },
+  "homepage": "https://github.com/jayeom-fitz/x03-movie-gql#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}

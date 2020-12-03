@@ -43,7 +43,7 @@ export const people = [
     }
   ];
 
-  const getById = id => {
-    const filteredPeople = people.filter(person => id === people.id);
+  export const getById = id => {
+    const filteredPeople = people.filter(person => String(id) === person.id);
     return filteredPeople[0];
   };

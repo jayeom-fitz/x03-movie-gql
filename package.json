@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/jayeom-fitz/x03-movie-gql#readme",
   "dependencies": {
-    "graphql-yoga": "^1.18.3"
+    "graphql-yoga": "^1.18.3",
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.8",
